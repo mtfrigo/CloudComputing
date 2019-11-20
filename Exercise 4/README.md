@@ -8,6 +8,7 @@
 
 [DynamoDB](../Guides/dynamodb.md)
 
+# Exercise 4
 
 * Running DynamoDB locally
 
