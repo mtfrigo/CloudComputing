@@ -10,7 +10,7 @@
 
 ## Dependencies
 
-***The operation system is Ubuntu 18.04***
+***The operating system is Ubuntu 18.04***
 
 [OpenJDK 1.8](Guides/jdk.md)
 
