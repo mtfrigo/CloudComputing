@@ -1,8 +1,11 @@
 # Requirements
 
 [Java OpenJDK 1.8](../Guides/jdk.md)
+
 [Tomcat 9](../Guides/tomcat.md)
+
 [Maven](../Guides/maven.md)
+
 [DynamoDB](../Guides/dynamodb.md)
 
 
