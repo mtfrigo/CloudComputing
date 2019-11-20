@@ -17,7 +17,7 @@ sudo apt install openjdk-8-jdk openjdk-8-jre
 sudo useradd -r -m -U -d /opt/tomcat -s /bin/false tomcat
 ```
 
-*Download and extract tar
+*Download and extract tar*
 
 Go to https://tomcat.apache.org/download-90.cgi and download the tar.gz
 
@@ -25,21 +25,21 @@ Go to https://tomcat.apache.org/download-90.cgi and download the tar.gz
 sudo tar xf /path/to/file -C /opt/tomcat
 ```
 
-*Rename the folder to tomcat9 and create e symbolic link
+*Rename the folder to tomcat9 and create e symbolic link*
 
 ```
 sudo mv /opt/tomcat/ /opt/tomcat9/
 sudo ln -s /opt/tomcat/tomcat9 /opt/tomcat/tomcat9
 ```
 
-*Changes directory ownership
+*Changes directory ownership*
 
 ```
 sudo chown -RH tomcat:/opt/tomcat9
 sudo sh -c 'chmod +x /opt/tomcat9/bin/*.sh'
 ```
 
-*Create systemctl file
+*Create systemctl file*
 
 ```
 sudo nano /etc/systemd/system/tomcat.service
@@ -77,11 +77,11 @@ sudo systemctl start tomcat
 sudo systemctl status tomcat
 ```
 
-*If there are no errors enable the Tomcat service
+*If there are no errors enable the Tomcat service*
 
 `sudo systemctl enable tomcat`
 
-*Adjust the Firewall
+*Adjust the Firewall*
 
 `sudo ufw allow 8080/tcp`
 `sudo ufw allow 80/tcp`
