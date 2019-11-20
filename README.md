@@ -1,4 +1,4 @@
-# Cloud Computing Winter semester 19/20
+# Cloud Computing Winter Semester 19/20
 
 
 
