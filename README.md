@@ -18,4 +18,4 @@
 
 [AWS CLI](Guides/awscli.md)
 
-[DynamoDB](Guide/dynamodb.md)
+[DynamoDB](Guides/dynamodb.md)
