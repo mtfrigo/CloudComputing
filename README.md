@@ -2,9 +2,11 @@
 
 
 
-[Task 2](https://github.com/mtfrigo/CloudComputing/tree/master/Task%202)
+[Exercise 2](https://github.com/mtfrigo/CloudComputing/tree/master/Exercise%202)
 
-[Task 3](https://github.com/mtfrigo/CloudComputing/tree/master/Task%203)
+[Exercise 3](https://github.com/mtfrigo/CloudComputing/tree/master/Exercise%203)
+
+[Exercise 4](https://github.com/mtfrigo/CloudComputing/tree/master/Exercise%204)
 
 ## Dependencies
 
