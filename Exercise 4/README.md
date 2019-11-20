@@ -1,30 +1,28 @@
 # Requirements
 
-* Java jdk >= 1.8
-* Apache Tomcat 9
-* Springboot
+[Java OpenJDK 1.8](../Guides/jdk.md)
+[Tomcat 9](../Guides/tomcat.md)
+[Maven](../Guides/maven.md)
+[DynamoDB](../Guides/dynamodb.md)
 
-# DynamoDB
 
-## Installing
-
-TODO
-
-## Running
+* Running DynamoDB locally
 
 ```
 java -Djava.library.path=./DynamoDBLocal_lib -jar DynamoDBLocal.jar -sharedDb
 ```
 
-# Project
+*Create dynamodb table*
 
-Using springboot and java
+`aws dynamodb create-table --table-name shopping-cart --attribute-definitions AttributeName=item,AttributeType=S --key-schema AttributeName=item,KeyType=HASH --provisioned-throughput ReadCapacityUnits=5,WriteCapacityUnits=5 --endpoint-url http://localhost:8000`
 
-Using port 8060 (can change by modifying src/resources/application.properties)
+* Running project
 
-## Running
+*Using port 8060 (can change by modifying src/resources/application.properties)*
 
 ```
 mvn clean install
 java -jar target/exercise-four-0.0.1-SNAPSHOT.jar
 ```
+
+Go to http://localhost:8060/
