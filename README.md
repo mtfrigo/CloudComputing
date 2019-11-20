@@ -1,5 +1,8 @@
 # Cloud Computing Winter semester 19/20
 
+[Task 03](https://github.com/mtfrigo/CloudComputing/tree/master/Task%202)
+[Task 02](https://github.com/mtfrigo/CloudComputing/tree/master/Task%203)
+
 ## Tomcat 9
 
 *The operation system is Ubuntu 18.04*
@@ -85,26 +88,3 @@ sudo systemctl status tomcat
 
 `sudo ufw allow 8080/tcp`
 `sudo ufw allow 80/tcp`
-
-## Task 2
-
-* Changing the running port of the application (in this case I prefer to still running on 8080 port)
-
-Go to /opt/tomcat/tomcat9/conf/server.xml
-```
-<Service name="Catalina">
-  <Connector port="8080" protocol="HTTP/1.1" .../>
-```
-
-* Activating automatic reload
-
-Go to /opt/tomcat/tomcat9/conf/context.xml
-```
-<Contextreloadable="true">
-```
-
-* Directory listing
-Go to /opt/tomcat/tomcat9/conf/web.xml
-```
-servlet... default... listings-set to true
-```
