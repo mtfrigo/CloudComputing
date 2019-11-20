@@ -12,4 +12,10 @@
 
 ***The operation system is Ubuntu 18.04***
 
+[OpenJDK 1.8](Guides/jdk.md)
+
 [Tomcat 9](Guides/tomcat9.md)
+
+[AWS CLI](Guides/awscli.md)
+
+[DynamoDB](Guide/dynamodb.md)
