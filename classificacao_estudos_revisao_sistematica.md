@@ -446,6 +446,198 @@ Categorias utilizadas: **In vitro** | **In vivo** | **Clinical trial**
 
 ---
 
+### ID 57
+
+**Classificação:** In vitro
+
+**Justificativa:** O resumo descreve o objetivo de investigar a atividade antibacteriana de *Zingiber officinale* (gengibre) e *Garcinia kola* (bitter kola) contra quatro patógenos do trato respiratório. Embora o resumo seja extremamente breve (apenas o objetivo), o contexto de avaliação de atividade antibacteriana de extratos contra patógenos indica um estudo laboratorial. *Nota: resumo limitado ao objetivo; classificação inferida.*
+
+---
+
+### ID 58
+
+**Classificação:** In vitro
+
+**Justificativa:** As atividades antibacterianas de *Cassine transvaalensis*, *Vangueria infausta*, *Croton gratissimus* e *Vitex ferruginea* foram avaliadas contra *S. aureus* e *S. epidermidis* por difusão em disco de Kirby-Bauer e MIC. A citotoxicidade e atividade anti-HIV-1 foram testadas por ensaio MTT e ensaio anti-HIV-1iiB. Compostos bioativos foram isolados por cromatografia e caracterizados por RMN. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 59
+
+**Classificação:** In vivo
+
+**Justificativa:** O estudo avaliou os efeitos de diferentes produtos de processamento da fórmula tradicional chinesa NBXH em modelo de tuberculose em camundongos. Cento e vinte camundongos BALB/c fêmeas infectados com *M. tuberculosis* H37Rv foram tratados com diferentes doses de NBXH por 12 semanas. Foram avaliados peso corporal, índice de peso esplênico, contagem de colônias em baço e pulmão, e patologia pulmonar geral e histopatologia. O desenho é exclusivamente in vivo (modelo animal de TB).
+
+---
+
+### ID 60
+
+**Classificação:** In vitro
+
+**Justificativa:** A fórmula Prasaprohyai e seus componentes foram extraídos por diferentes métodos e testados contra isolados clínicos e cepas ATCC por difusão em disco e diluição em caldo. Todos os ensaios antimicrobianos foram conduzidos in vitro, sem modelo animal ou ensaio clínico.
+
+---
+
+### ID 61
+
+**Classificação:** In vivo
+
+**Justificativa:** O estudo avaliou as atividades anti-inflamatória e antibacteriana do extrato de acetato de etila de *P. petiolosa* (PPEAE) contra *S. aureus* em camundongos. Os camundongos foram infectados com pneumonia por *S. aureus* e tratados com PPEAE. Os desfechos incluíram contagem de colônias em tecido pulmonar, contagem de leucócitos (WBC), histopatologia (H&E) do pulmão e expressão gênica por RT-PCR (HO-1, iNOS, TNF-α), além da razão peso úmido/seco do pulmão. O desenho é exclusivamente in vivo.
+
+---
+
+### ID 62
+
+**Classificação:** Não classificável
+
+**Justificativa:** O resumo apresenta-se vazio/em branco. Não há informações disponíveis para classificação.
+
+---
+
+### ID 63
+
+**Classificação:** In vitro
+
+**Justificativa:** A atividade do óleo essencial de *Eucalyptus globulus* foi determinada contra um amplo painel de isolados clínicos bacterianos (120 *S. pyogenes*, 20 *S. pneumoniae*, 40 *S. agalactiae*, 20 *S. aureus*, 40 *H. influenzae*, 30 *H. parainfluenzae*, 10 *K. pneumoniae*, 10 *S. maltophilia*) e dois vírus (adenovírus e vírus da caxumba). A citotoxicidade foi avaliada em células VERO pelo ensaio MTT. A atividade antibacteriana foi avaliada por Kirby-Bauer, MIC e MBC. A atividade antiviral foi avaliada por rendimento viral e redução de placas. Todos os ensaios são in vitro.
+
+---
+
+### ID 64
+
+**Classificação:** In vitro
+
+**Justificativa:** A composição química do óleo essencial de *Artemisia asiatica* foi analisada por GC-MS. A atividade antibacteriana foi avaliada por difusão em disco e MIC/MBC por diluição em ágar contra 6 bactérias. O mecanismo de ação foi estudado por curva de crescimento, integridade de membrana celular, ensaios de vazamento de DNA, RNA e proteínas, e microscopia eletrônica de varredura (SEM). Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 65
+
+**Classificação:** In vitro
+
+**Justificativa:** Quatro extratos vegetais e fitoconstituintes com propriedade antiasmática comprovada foram avaliados quanto à atividade antibacteriana in vitro contra *H. influenzae*, *S. pneumoniae*, *S. pyogenes* e *S. aureus*. O próprio resumo declara explicitamente tratar-se de "modelos in vitro".
+
+---
+
+### ID 66
+
+**Classificação:** In vivo
+
+**Justificativa:** O estudo avaliou a eficácia de ciprofloxacina e extrato de *Artemisia judaica* no tratamento de pneumonia em ratos infectados com *Klebsiella pneumoniae*. Cinco grupos de 10 ratos foram estudados: controle negativo, infectado sem tratamento, infectados tratados com 250 mg/kg e 500 mg/kg de extrato e infectados tratados com ciprofloxacina. Os animais foram sacrificados após 24, 48 e 72 horas de tratamento. Os desfechos incluíram sobrevivência, disseminação bacteriana (pulmões, fígado, baço), histologia pulmonar, níveis de TNF-α, IL-4, SOD e CAT. Embora TEM tenha sido usada (técnica in vitro), o estudo é predominantemente e essencialmente in vivo.
+
+---
+
+### ID 67
+
+**Classificação:** In vitro, In vivo
+
+**Justificativa:** **In vitro:** o resumo menciona estudos prévios demonstrando efeito antibacteriano do extrato aquoso de *Urena lobata* (ULL) sobre *S. aureus* e efeito aditivo com cefazolina sódica in vitro. **In vivo:** camundongos foram infectados por inalação nasal com *S. aureus* e tratados por gavagem intragástrica com ULL e/ou injeção intravenosa de cefazolina sódica por 5, 10 e 14 dias. Foram avaliados WBC, NEU, NEU%, IgG e IgM séricos, contagem de colônias de *S. aureus* e IL-6/IL-10 em tecido pulmonar, e histopatologia pulmonar (H&E).
+
+---
+
+### ID 68
+
+**Classificação:** In vitro
+
+**Justificativa:** O estudo avaliou a atividade antimicobacteriana, as propriedades antibacterianas contra cepas multirresistentes de *S. aureus*, as potências indutoras de TNF e as atividades tipo interferon em sobrenadantes de macrófagos derivados de medula óssea ativados. EPs 7630 estimulou a síntese de IFN-beta em células MG 63 (ensaio imunoenzimático). A expressão de iNOS e TNF-α em células RAW 264.7 estimuladas foi avaliada por RT-PCR. Embora utilize culturas primárias de macrófagos de medula óssea, todos os ensaios são conduzidos em ambiente de cultura celular (in vitro).
+
+---
+
+### ID 69
+
+**Classificação:** In vitro
+
+**Justificativa:** O óleo de *Myrtus communis* (MCO) foi testado contra 30 cepas de *S. mutans*, *A. actinomycetemcomitans*, *P. gingivalis* e 20 cepas de *S. pyogenes* e *C. albicans* isoladas de pacientes com diferentes patologias orais. A atividade foi avaliada por difusão em disco em ágar e microdiluição em caldo. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 70
+
+**Classificação:** Clinical trial
+
+**Justificativa:** Trata-se de um ensaio clínico randomizado em 50 pacientes com rinossinusite bacteriana aguda (ABRS). Os pacientes foram divididos em dois grupos: Grupo 1 (n=25) recebeu comprimidos de EPs 7630 (3 × 20 mg/dia) e Grupo 2 (n=25) recebeu amoxicilina (3 × 500 mg/dia), ambos por 10 dias. Os desfechos incluíram escore total de sintomas (TSS), escores individuais de sintomas, achados endoscópicos (TES) e cultura bacteriana de amostras do meato médio antes e após o tratamento.
+
+---
+
+### ID 71
+
+**Classificação:** In vitro
+
+**Justificativa:** O extrato padronizado de sabugueiro (*Sambucus nigra*) foi avaliado quanto à atividade antimicrobiana por microdiluição em caldo contra três bactérias Gram-positivas e uma Gram-negativa, com determinação dos efeitos inibitórios por plaqueamento. O potencial inibitório contra vírus influenza A (H5N1) e influenza B foi investigado por ensaios MTT e de foco em cultura celular. Todos os ensaios são in vitro.
+
+---
+
+### ID 72
+
+**Classificação:** In vitro
+
+**Justificativa:** O óleo essencial de *Thymus sipyleus* foi analisado por GC-FID e GC/MS. A atividade antimicrobiana foi avaliada por difusão em ágar, microdiluição e difusão de vapor contra cepas associadas à rinossinusite (*S. aureus*, MRSA, *S. epidermidis*, *S. pyogenes*, *S. pneumoniae*, *P. aeruginosa*, *H. influenzae*, *M. catarrhalis*). A atividade anti-inflamatória foi avaliada pela inibição de 5-lipoxigenase (5-LOX). A composição dos voláteis em fase de vapor foi determinada por HS-SPME-GC/MS. Todos os ensaios são in vitro.
+
+---
+
+### ID 73
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos de clorofórmio e metanol de *Lantana camara* foram avaliados contra três cepas de *M. tuberculosis* (H37Rv, TMC-331 resistente à rifampicina e cepa selvagem) pelo método de difusão em poço em ágar. MIC e MBC foram determinados por diluição em ágar em Middlebrook 7H11. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 74
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos brutos de metanol a 80% e frações de *Albizia gummifera* e *Ferula communis* foram testados contra isolados clínicos de *S. pneumoniae* e *S. pyogenes* pelo método de diluição em ágar. O estudo é explicitamente descrito como avaliação de atividades antibacterianas "in vitro".
+
+---
+
+### ID 75
+
+**Classificação:** In vitro, In vivo
+
+**Justificativa:** **In vitro:** estudos de microarray de DNA em culturas de *P. aeruginosa* tratadas com ajoeno revelaram atenuação dose-dependente de fatores de virulência controlados por quorum sensing. O tratamento de biofilmes in vitro demonstrou efeito sinérgico com tobramicina. **In vivo:** em modelo murino de infecção pulmonar, uma diminuição significativa de *P. aeruginosa* foi detectada em camundongos tratados com ajoeno em comparação ao grupo controle não tratado.
+
+---
+
+### ID 76
+
+**Classificação:** In vivo
+
+**Justificativa:** Formas pura e de extrato de *Ecballium elaterium* (E.E.) foram aplicadas topicamente na cavidade nasal de ratos com rinossinusite. Mucosa nasal, palato mole e traqueia foram coletados em 1 hora, 3º dia e 3ª semana para avaliação histopatológica. O estudo é inteiramente baseado em modelo animal (in vivo), avaliando efeitos anti-inflamatórios e fibrose.
+
+---
+
+### ID 77
+
+**Classificação:** In vitro
+
+**Justificativa:** A atividade antibacteriana do extrato foliar de *Eucalyptus globulus* foi determinada contra 56 isolados de *S. aureus*, 25 de *S. pyogenes*, 12 de *S. pneumoniae* e 7 de *H. influenzae* obtidos de espécimes clínicos. Foram determinados MIC50, MIC90 e MBC. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 78
+
+**Classificação:** In vitro, In vivo
+
+**Justificativa:** **In vitro:** o óleo essencial de *Origanum vulgare* (EOv) reduziu a viabilidade de células A549, índice mitótico e aberrações cromossômicas (ensaio anáfase-telófase em *Allium cepa*), e apresentou atividade antimicrobiana por difusão em disco contra cepas Gram-positivas e Gram-negativas. **In vivo:** EOv foi avaliado quanto às propriedades anti-inflamatórias em modelo murino de inflamação das vias aéreas, modificando níveis de TNF-α, macrófagos ativados viáveis e degradação de dienos conjugados.
+
+---
+
+### ID 79
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos de folhas de *Begonia malabarica* foram testados contra dez bactérias patogênicas humanas e quatro cepas fúngicas pelo método de difusão em poço em ágar. Seis compostos conhecidos foram isolados e identificados. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 80
+
+**Classificação:** In vivo
+
+**Justificativa:** Estudo experimental em 32 camundongos Wistar divididos em 4 grupos. Três grupos foram inoculados com *S. aureus* por inserção de esponja na cavidade nasal para induzir rinossinusite bacteriana aguda. Dois grupos receberam extrato etanólico de folhas de Poguntano (EEPL) por via oral (10 mg/kg por 5 dias). Os desfechos incluíram nível de procalcitonina e quantidade de colônias bacterianas. O desenho é inteiramente baseado em modelo animal (in vivo).
+
+---
+
 ## Resumo da Classificação
 
 | ID | In vitro | In vivo | Clinical trial |
@@ -505,13 +697,40 @@ Categorias utilizadas: **In vitro** | **In vivo** | **Clinical trial**
 | 53 | X        | X       |                |
 | 54 | X        | X       |                |
 | 55 | X        |         |                |
+| 57 | X        |         |                |
+| 58 | X        |         |                |
+| 59 |          | X       |                |
+| 60 | X        |         |                |
+| 61 |          | X       |                |
+| 62 | X        |         |                |
+| 63 | X        |         |                |
+| 64 | X        |         |                |
+| 65 | X        |         |                |
+| 66 |          | X       |                |
+| 67 | X        | X       |                |
+| 68 | X        |         |                |
+| 69 | X        |         |                |
+| 70 |          |         | X              |
+| 71 | X        |         |                |
+| 72 | X        |         |                |
+| 73 | X        |         |                |
+| 74 | X        |         |                |
+| 75 | X        | X       |                |
+| 76 |          | X       |                |
+| 77 | X        |         |                |
+| 78 | X        | X       |                |
+| 79 | X        |         |                |
+| 80 |          | X       |                |
 
-**Totais (IDs 1–55):**
-- **In vitro:** 53 estudos (IDs 2–7, 9–55)
-- **In vivo:** 9 estudos (IDs 28, 29, 37, 39, 42, 50, 52, 53, 54)
-- **Clinical trial:** 2 estudos (IDs 1, 8)
+**Totais (IDs 1–80, excluindo IDs 56 e 62):**
+- **In vitro:** 66 estudos
+- **In vivo:** 16 estudos (IDs 28, 29, 37, 39, 42, 50, 52, 53, 54, 59, 61, 66, 67, 75, 76, 78, 80)
+- **Clinical trial:** 3 estudos (IDs 1, 8, 70)
 
 **Observações:**
-- 9 estudos apresentaram classificação dupla (In vitro + In vivo): IDs 28, 29, 37, 39, 42, 50, 52, 53 e 54.
+- 12 estudos apresentaram classificação dupla (In vitro + In vivo): IDs 28, 29, 37, 39, 42, 50, 52, 53, 54, 67, 75, 78.
+- 5 estudos apresentaram classificação exclusiva In vivo: IDs 59, 61, 66, 76, 80.
 - O ID 45 possui resumo truncado; a classificação foi baseada nas informações parciais disponíveis.
 - O ID 27 possui resumo truncado, mas os métodos descritos são claramente in vitro.
+- O ID 57 possui resumo muito breve (apenas objetivo); classificação baseada no contexto de avaliação antibacteriana laboratorial.
+- O ID 62 apresenta resumo vazio/em branco e não foi classificado.
