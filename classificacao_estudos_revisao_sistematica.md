@@ -638,6 +638,630 @@ Categorias utilizadas: **In vitro** | **In vivo** | **Clinical trial**
 
 ---
 
+### ID 138
+
+**Classificação:** In vitro
+
+**Justificativa:** Quatro extratos de cada planta foram preparados com diferentes solventes e testados quanto à atividade antiviral (Enterovírus 71) e antimicrobiana (*E. coli*, *S. aureus*, *C. albicans*). Análise por TLC foi realizada para desenvolver perfis fitoquímicos. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 139
+
+**Classificação:** Não classificável
+
+**Justificativa:** O resumo apresenta-se vazio/em branco. Não há informações disponíveis para classificação.
+
+---
+
+### ID 140
+
+**Classificação:** In vitro
+
+**Justificativa:** O óleo essencial de *Vanillosmopsis arborea* foi avaliado quanto à atividade antibacteriana e modificadora de antibióticos por contato gasoso contra *S. aureus* ATCC 12692 e *P. vulgaris* ATCC 13315. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 141
+
+**Classificação:** In vitro
+
+**Justificativa:** Sessenta e nove extratos de 51 espécies de plantas medicinais tailandesas foram testados por difusão em disco e microdiluição em caldo contra *S. pyogenes*. MIC e MBC determinados. Todos os ensaios são in vitro.
+
+---
+
+### ID 142
+
+**Classificação:** In vitro, In vivo
+
+**Justificativa:** **In vitro:** compostos isolados da casca da raiz de *Morus alba* avaliados por microdiluição em caldo, curva de cinética de morte, efeito pós-contato, bombas de efluxo e biofilmes contra MRSA. **In vivo:** a fração ativa MA-6 reduziu bactérias em baço, fígado e rim, e diminuiu a mortalidade em camundongos com infecção aguda, sendo superior ao cloreto de berberina.
+
+---
+
+### ID 143
+
+**Classificação:** In vitro
+
+**Justificativa:** Quatorze plantas medicinais testadas por difusão em disco contra 5 bactérias. Análise fitoquímica. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 144
+
+**Classificação:** In vitro
+
+**Justificativa:** Óleo essencial e extratos de *Cordia curassavica* avaliados contra 13 bactérias e 5 cepas fúngicas. MIC e IC50 determinados. GC e GC-MS para composição química. Todos os ensaios são in vitro.
+
+---
+
+### ID 145
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos vegetais testados contra patógenos bacterianos por técnicas microbiológicas padrão incluindo MIC. Todos os ensaios são in vitro. *Nota: resumo genérico/parcialmente truncado.*
+
+---
+
+### ID 146
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos de *Salvia sclarea* avaliados quanto às ações espasmolítica e broncodilatadora em tecidos isolados (íleo e traqueia de cobaia — ex vivo/in vitro), análise de docking molecular e efeitos antimicrobianos contra bactérias e *C. albicans*. HPLC. Todos os ensaios são laboratoriais.
+
+---
+
+### ID 147
+
+**Classificação:** In vitro
+
+**Justificativa:** O método MABA (microplate alamar blue assay) foi utilizado para avaliar atividade anti-*M. tuberculosis*. Fracionamento bioguiado, MS e RMN 1D/2D para caracterização. MIC, IC50, SI e MBC determinados. Todos os ensaios são in vitro.
+
+---
+
+### ID 148
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos de éter de petróleo, clorofórmio e etanol da casca do caule e folha de *Litsea glutinosa* testados por difusão em poço em ágar contra 8 cepas clínicas. MIC por diluição em ágar. Todos os ensaios são in vitro.
+
+---
+
+### ID 149
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos metanólicos de 10 plantas medicinais testados contra *Nocardia* patogênica por métodos de distribuição em ágar. Todos os ensaios são in vitro. *Nota: resumo truncado.*
+
+---
+
+### ID 150
+
+**Classificação:** In vitro
+
+**Justificativa:** Trinta e duas espécies vegetais testadas por difusão em disco e diluição em caldo (MIC) contra 5 bactérias. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 151
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos de polaridade média de 18 plantas testados por MIC contra patógenos respiratórios e cepas de *Mycobacterium*. Todos os ensaios são in vitro.
+
+---
+
+### ID 152
+
+**Classificação:** In vitro
+
+**Justificativa:** Atividade antioxidante (DPPH, fosformolibdênio, β-caroteno), antimicrobiana (difusão, MIC, MBC por microdiluição) contra isolados MDR de *E. coli* e perfil fitoquímico de extratos de cascas de plantas consumidas por gorilas. Todos os ensaios são in vitro.
+
+---
+
+### ID 153
+
+**Classificação:** In vitro
+
+**Justificativa:** Dezesseis extratos brutos de 6 espécies vegetais avaliados por diluição em série (MIC) contra *S. aureus*, *E. faecalis*, *S. pneumoniae*, *S. pyogenes*, *E. coli* e *C. albicans*. Todos os ensaios são in vitro.
+
+---
+
+### ID 154
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos de 3 espécies de *Terminalia* testados por MIC contra bactérias e fungos. DPPH, FRAP, ABTS para atividade antioxidante. HPLC-DAD para compostos fenólicos. Todos os ensaios são in vitro.
+
+---
+
+### ID 155
+
+**Classificação:** In vitro
+
+**Justificativa:** Óleos essenciais e extratos de 12 acessos de *Curcuma caesia* testados contra 8 cepas MDR. HPTLC e GC-MS. Cultura de tecidos in vitro para conservação. Todos os ensaios são laboratoriais.
+
+---
+
+### ID 156
+
+**Classificação:** In vitro
+
+**Justificativa:** Microdiluição em caldo, inibição de biofilme, ensaio de dano à membrana e SEM do óleo essencial de *Helichrysum italicum* contra patógenos respiratórios. Todos os ensaios são in vitro.
+
+---
+
+### ID 157
+
+**Classificação:** In vitro
+
+**Justificativa:** Método de diluição em ágar para teste de sensibilidade quantitativa do composto Qingre contra 163 patógenos comuns de URTI. MIC determinada. Todos os ensaios são in vitro.
+
+---
+
+### ID 158
+
+**Classificação:** In vitro
+
+**Justificativa:** Extrato de éter dietílico de *N. cataria* testado em 44 cepas de *S. aureus* para coagulase, DNase, termonuclease, lipase e aderência in vitro em concentrações sub-MIC. Todos os ensaios são in vitro.
+
+---
+
+### ID 159
+
+**Classificação:** In vitro
+
+**Justificativa:** Extrato etanólico de *H. indicus* avaliado quanto à inibição de biofilme, disrupção de biofilmes pré-formados, redução de aderência a células epiteliais e interferência em quorum sensing. Todos os ensaios são in vitro.
+
+---
+
+### ID 160
+
+**Classificação:** In vitro
+
+**Justificativa:** Fracionamento bioguiado de extratos de n-hexano de *Pelargonium reniforme* e *P. sidoides*. Análise de ácidos graxos por GC-MS. MIC contra *M. aurum*, *M. smegmatis* e outras micobactérias. Todos os ensaios são in vitro.
+
+---
+
+### ID 161
+
+**Classificação:** In vitro
+
+**Justificativa:** BACTEC MGIT 960 para atividade antitubercular, difusão em disco e microdiluição para atividade antimicrobiana, testes fitoquímicos qualitativos e GC-MS. Todos os ensaios são in vitro.
+
+---
+
+### ID 162
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos aquosos e de acetona de raízes de *Euclea natalensis* testados contra bactérias Gram-positivas e Gram-negativas. Bioensaio direto em placas de TLC contra *S. aureus*. Todos os ensaios são in vitro.
+
+---
+
+### ID 163
+
+**Classificação:** In vitro
+
+**Justificativa:** Trinta e quatro espécies vegetais guineenses avaliadas contra *C. albicans*, *T. rubrum*, *A. fumigatus*, *M. chelonae*, *S. aureus* e *E. coli*. IC50 determinados. Todos os ensaios são in vitro.
+
+---
+
+### ID 164
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos de *Faidherbia albida* testados contra 3 bactérias e 3 fungos patogênicos. Análise fitoquímica. Efeito de estimulação de crescimento avaliado. Todos os ensaios são in vitro.
+
+---
+
+### ID 165
+
+**Classificação:** In vitro
+
+**Justificativa:** Atividade antioxidante (ABTS e DPPH), antimicrobiana (Kirby-Bauer contra 9 bactérias) e perfil fitoquímico (HPLC-DAD, GC-MS) de extratos de flores de *Jacaranda mimosifolia*. Todos os ensaios são in vitro.
+
+---
+
+### ID 166
+
+**Classificação:** In vitro
+
+**Justificativa:** Microdiluição e diluição em checkerboard contra 20 isolados MDR de *A. baumannii* e *P. aeruginosa*. RRLC-MS/MS. TEM para mecanismo de ação. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 167
+
+**Classificação:** In vitro
+
+**Justificativa:** MIC contra bactérias e *C. albicans*. Inibição de COX-1 e COX-2 para atividade anti-inflamatória. Teste de Ames para genotoxicidade. Todos os ensaios são in vitro.
+
+---
+
+### ID 168
+
+**Classificação:** In vitro
+
+**Justificativa:** Salvipisona isolada por cromatografia; estrutura elucidada por UV, IR, RMN 1D/2D e MS. MIC contra cepas ATCC de bactérias. Estudos in silico de docking molecular. Todos os ensaios são in vitro.
+
+---
+
+### ID 169
+
+**Classificação:** In vitro
+
+**Justificativa:** Difusão em disco, MIC e MBC do extrato metanólico de *H. sabdariffa* contra cepas MDR e não-MDR de *A. baumannii*. Todos os ensaios são in vitro.
+
+---
+
+### ID 170
+
+**Classificação:** In vitro
+
+**Justificativa:** GC/MS para composição química de OEs de 13 espécies de *Eucalyptus*. DPPH e poder redutor para antioxidante. MIC e zonas de inibição para atividade antibacteriana. Todos os ensaios são in vitro.
+
+---
+
+### ID 171
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos de *Zingiber officinale* testados em 3 concentrações contra 6 patógenos. Triagem fitoquímica. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 172
+
+**Classificação:** In vitro
+
+**Justificativa:** MIC por microdiluição contra 4 bactérias. MTT em células Vero para citotoxicidade. Inibição de alfa-glucosidase para atividade antidiabética. Todos os ensaios são in vitro.
+
+---
+
+### ID 173
+
+**Classificação:** In vitro
+
+**Justificativa:** Difusão em poço e microdiluição para MIC/MBC/MFC contra bactérias e fungos. HPLC, GC-MS e FT-IR. MTT para citotoxicidade. Todos os ensaios são in vitro.
+
+---
+
+### ID 174
+
+**Classificação:** In vitro
+
+**Justificativa:** Ensaio de difusão em disco guiado por bioensaio para atividade bacteriostática contra *S. aureus* e *E. coli*. Extração, partição e isolamento de compostos de folhas de *Lonicera japonica*. Todos os ensaios são in vitro.
+
+---
+
+### ID 175
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos aquosos e metanólicos de folhas de *Acalypha ornata* testados contra 5 bactérias clínicas e 4 fungos. Zonas de inibição determinadas. Todos os ensaios são in vitro.
+
+---
+
+### ID 176
+
+**Classificação:** In vitro
+
+**Justificativa:** Difusão em disco, MIC e MBC de extratos de plantas medicinais etíopes contra *M. catarrhalis*. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 177
+
+**Classificação:** In vitro
+
+**Justificativa:** Difusão em ágar e microdiluição (MIC) de extratos de *Larrea tridentata* contra 6 cepas de bactérias. HPLC. Todos os ensaios são in vitro.
+
+---
+
+### ID 178
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos de folhas de goiaba testados por MIC contra *S. pyogenes* e *P. aeruginosa*. Formulação em bala dura com avaliação de atividade antibacteriana e aceitabilidade organoléptica. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 179
+
+**Classificação:** In vitro
+
+**Justificativa:** Protocolo modificado de zona de inibição com frasco de vidro central para evaporação e aerossolização de constituintes ativos de 19 óleos essenciais contra 11 microrganismos. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 180
+
+**Classificação:** Não classificável
+
+**Justificativa:** O resumo apresenta-se vazio/em branco. Não há informações disponíveis para classificação.
+
+---
+
+### ID 181
+
+**Classificação:** In vitro
+
+**Justificativa:** Frações de extrato da casca de *Anogeissus leiocarpus* testadas por difusão em disco e E-test contra isolados clínicos bacterianos de infecções respiratórias. MIC e MBC determinados. Triagem fitoquímica. Todos os ensaios são in vitro.
+
+---
+
+### ID 182
+
+**Classificação:** In vitro
+
+**Justificativa:** Efeito anti-adesivo do extrato metanólico de *Aframomum melegueta* contra *S. aureus* em linhagem celular de carcinoma pulmonar. Isolamento bioguiado, RMN 1D/2D e HREIMS. Atividade anti-adesiva de compostos isolados. Todos os ensaios são de cultura celular (in vitro).
+
+---
+
+### ID 183
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos aquosos e orgânicos de *Allium roseum* avaliados contra cepas bacterianas Gram-positivas e Gram-negativas. Triagem fitoquímica. Todos os ensaios são in vitro.
+
+---
+
+### ID 184
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos de folhas de *Cassia singueana* avaliados pelo ensaio de microplaca com tetrazólio para MIC/MBC contra bactérias Gram-positivas e Gram-negativas. Triagem fitoquímica. Todos os ensaios são in vitro.
+
+---
+
+### ID 185
+
+**Classificação:** In vitro
+
+**Justificativa:** OEs de *Origanum* analisados por GC-MS. TLC-bioautografia. MIC contra MRSA, *H. influenzae*, *H. parainfluenzae* e *P. aeruginosa*. Ensaio anti-biofilme. SEM em biofilmes. Todos os ensaios são in vitro.
+
+---
+
+### ID 186
+
+**Classificação:** In vitro
+
+**Justificativa:** Anti-HIV sobre integrase do HIV-1 subtipo C. Citotoxicidade em células HeLa. MIC contra bactérias Gram-positivas e Gram-negativas (patógenos gastrointestinais, cutâneos, respiratórios e urinários). Todos os ensaios são in vitro.
+
+---
+
+### ID 187
+
+**Classificação:** In vitro
+
+**Justificativa:** MIC por microdiluição em microplaca contra bactérias. MTT em células Vero para toxicidade. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 188
+
+**Classificação:** In vitro, In vivo
+
+**Justificativa:** **In vitro:** difusão em poço e microdiluição em caldo (MIC/MBC) contra bactérias isoladas de pacientes e porcos. GC-MS e RMN para caracterização. **In vivo:** eficácia do extrato testada monitorando a recuperação completa de porcos com doença respiratória (suplemento oral de 500–300 mg/mL/dia/porco; recuperação em 3–6 dias).
+
+---
+
+### ID 189
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos de sementes de *Monechma ciliatum* bioensaiados in vitro contra bactérias e fungos patogênicos. Triagem fitoquímica. Todos os ensaios são laboratoriais.
+
+---
+
+### ID 190
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos de acetona e metanol de folha, caule, rizoma e raiz de *Alepidea amatymbica* testados contra 10 bactérias e 3 fungos por diluição em ágar. Todos os ensaios são in vitro.
+
+---
+
+### ID 191
+
+**Classificação:** In vitro, In vivo
+
+**Justificativa:** **In vitro:** viabilidade de NTHi, efeito bactericida da quercetina, ensaio de invasão em células epiteliais das vias aéreas, e expressão de marcadores pró-inflamatórios. **In vivo:** quercetina testada em modelo murino de infecção pulmonar por NTHi (redução de contagem bacteriana e genes pró-inflamatórios) e em modelo de septicemia em zebrafish (efeito de eliminação bacteriana).
+
+---
+
+### ID 192
+
+**Classificação:** In vitro
+
+**Justificativa:** MIC do óleo de melaleuca contra 193 cepas de bactérias anaeróbias pela técnica de diluição em placa. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 193
+
+**Classificação:** In vitro
+
+**Justificativa:** GC e GC-MS para composição química do OE de *Thymus fedtschenkoi*. Método de disco, MBC e MIC para propriedades antibacterianas. Todos os ensaios são in vitro.
+
+---
+
+### ID 194
+
+**Classificação:** In vitro
+
+**Justificativa:** MIC, MBC e difusão em disco de extratos metanólico e aquoso de Poulk contra 4 bactérias causadoras de infecção urinária. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 195
+
+**Classificação:** In vitro, In vivo
+
+**Justificativa:** **In vitro:** doze plantas avaliadas contra espécies de *Mycobacterium* por difusão em ágar e microdiluição em caldo. Cromatografia em coluna, espectroscopia UV, RMN e ensaio de glutamina sintetase. **In vivo:** a fração metanólica mais ativa foi avaliada quanto à toxicidade em doses de até 10 g/kg de peso animal, demonstrando ser não tóxica.
+
+---
+
+### ID 196
+
+**Classificação:** In vitro
+
+**Justificativa:** Microdiluição com violeta de tetrazólio contra 3 micobactérias e uma cepa de *M. tuberculosis*. MTT em células Vero. Todos os ensaios são in vitro.
+
+---
+
+### ID 197
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos e frações avaliados contra *E. coli*, *S. aureus*, *M. aurum* A+. Compostos isolados testados contra espécies de *Mycobacterium* e para citotoxicidade em células de ovário de hamster chinês. Todos os ensaios são in vitro.
+
+---
+
+### ID 198
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos e alcaloides de *Cryptolepis sanguinolenta* testados por microdiluição seriada em caldo contra 7 cepas de referência. Todos os ensaios são in vitro.
+
+---
+
+### ID 199
+
+**Classificação:** In vitro
+
+**Justificativa:** Experimentos ex vivo em traqueia isolada de cobaia para broncodilatação (banho de órgãos com emkaBath). GC-MS. MIC para atividade antibacteriana. Níveis de cAMP em homogenatos traqueais isolados. Os ensaios ex vivo de órgão isolado são classificados como in vitro.
+
+---
+
+### ID 200
+
+**Classificação:** In vitro
+
+**Justificativa:** Conteúdo fenólico/flavonoide; DPPH, TAC, FRAP e quelação metálica para atividade antioxidante; zonas de inibição para atividade antibacteriana; ensaio de estabilização de membrana para atividade anti-inflamatória. Todos os ensaios são in vitro.
+
+---
+
+### ID 201
+
+**Classificação:** In vitro
+
+**Justificativa:** GC-MS para composição de OEs de 7 espécies de *Artemisia*. Atividade antimicrobiana contra bactérias, leveduras, dermatófitos e outros fungos. DPPH e β-caroteno/linoleato para antioxidante. Todos os ensaios são in vitro.
+
+---
+
+### ID 202
+
+**Classificação:** In vitro
+
+**Justificativa:** GC-MS para perfil fitoquímico. Atividade antibacteriana e antifúngica de extratos etanólicos de *Calotropis procera* e *C. gigantea* por zonas de inibição. Todos os ensaios são in vitro.
+
+---
+
+### ID 203
+
+**Classificação:** In vitro
+
+**Justificativa:** Análise fitoquímica por espectrometria de massas. Avaliação in vitro de atividades antimicrobiana, antidiabética (alfa-glucosidase), antioxidante (DPPH) e toxicidade (brine shrimp) de extratos de *Aegle marmelos*. Todos os ensaios são in vitro.
+
+---
+
+### ID 204
+
+**Classificação:** In vitro
+
+**Justificativa:** Difusão em ágar, macrodiluição em ágar, microdiluição em caldo e bioautografia de extrato de *Zuccagnia punctata* contra 47 cepas de bactérias Gram-negativas resistentes. Fracionamento bioguiado. MIC/MBC. Todos os ensaios são in vitro.
+
+---
+
+### ID 205
+
+**Classificação:** Clinical trial
+
+**Justificativa:** Estudo interventional comparativo em 60 pacientes pediátricos hospitalizados com pneumonia adquirida na comunidade (PAC), divididos em 3 grupos: fisioterapia respiratória (CPT), CPT + nebulização, e CPT + terapia de vapor com *Cinnamon varum* e *Syzygium aromaticum*. Terapia 2x/dia por 7 dias. Desfechos incluíram hemograma, espirometria, gasometria arterial e escore CURB-65.
+
+---
+
+### ID 206
+
+**Classificação:** In vitro
+
+**Justificativa:** Levantamento etnobotânico seguido de triagem antimicrobiana por microdiluição em microplaca contra patógenos de infecções gastrointestinais, respiratórias, cutâneas e sexualmente transmissíveis. Todos os ensaios são in vitro.
+
+---
+
+### ID 207
+
+**Classificação:** In vitro
+
+**Justificativa:** Microdiluição em caldo e ensaio radiométrico BACTEC para atividade antibacteriana e antimicobacteriana de *Tabernaemontana elegans*. Citotoxicidade por Neutral Red e MTT em linfócitos, fibroblastos, HepG2 e THP-1. TLC e GC-MS. Todos os ensaios são in vitro.
+
+---
+
+### ID 208
+
+**Classificação:** In vitro
+
+**Justificativa:** Cinquenta e seis extratos etanólicos de 39 plantas testados por difusão em placa contra 8 espécies bacterianas. Ensaios de crescimento cinético. Todos os ensaios são laboratoriais in vitro.
+
+---
+
+### ID 209
+
+**Classificação:** In vitro
+
+**Justificativa:** Extratos brutos, OEs e compostos isolados de casca de *Warburgia salutaris* testados contra patógenos cutâneos e respiratórios. Fracionamento bioguiado. MIC determinados. Todos os ensaios são in vitro.
+
+---
+
+### ID 210
+
+**Classificação:** In vitro
+
+**Justificativa:** MIC de extratos e OEs de 3 espécies de *Teucrium* contra 7 bactérias por microdiluição. GC-MS para composição dos óleos. Estudos micromorfológicos e anatômicos. Todos os ensaios são in vitro.
+
+---
+
+### ID 211
+
+**Classificação:** In vitro
+
+**Justificativa:** MIC de 39 extratos de várias polaridades contra *S. epidermidis*, *S. aureus*, *M. luteus* e *P. aeruginosa*. Análise fitoquímica de elagitaninos. Todos os ensaios são in vitro.
+
+---
+
+### ID 212
+
+**Classificação:** In vitro
+
+**Justificativa:** Difusão em poço em ágar de extratos de folhas de *Merremia emarginata* contra 4 espécies bacterianas. Triagem fitoquímica. Todos os ensaios são in vitro.
+
+---
+
+### ID 213
+
+**Classificação:** In vitro
+
+**Justificativa:** Difusão em poço e difusão em disco de extratos e compostos isolados de *Jatropha tanjorensis* contra 14 bactérias e 4 fungos. Todos os ensaios são in vitro.
+
+---
+
+### ID 214
+
+**Classificação:** In vitro
+
+**Justificativa:** Método de microplaca para biofilme e efeitos antibacterianos/antibiofilme de extratos de *Juglans regia* contra isolados de *P. aeruginosa*. Difusão em disco para sensibilidade a antibióticos. Todos os ensaios são in vitro.
+
+---
+
+### ID 215
+
+**Classificação:** In vitro
+
+**Justificativa:** DPPH para atividade antioxidante. Atividade antimicrobiana de lorantina contra vários patógenos, com efeito significativo contra *S. aureus*. Inibição de proteínas quinases. Caracterização por HRFABMS e RMN 1D/2D. Todos os ensaios são in vitro.
+
+---
+
 ### ID 81
 
 **Classificação:** In vitro
@@ -1225,20 +1849,96 @@ Categorias utilizadas: **In vitro** | **In vivo** | **Clinical trial**
 | 134| X        |         |                |
 | 135|          | X       |                |
 | 136| X        | X       |                |
+| 138| X        |         |                |
+| 139| —        | —       | —              |
+| 140| X        |         |                |
+| 141| X        |         |                |
+| 142| X        | X       |                |
+| 143| X        |         |                |
+| 144| X        |         |                |
+| 145| X        |         |                |
+| 146| X        |         |                |
+| 147| X        |         |                |
+| 148| X        |         |                |
+| 149| X        |         |                |
+| 150| X        |         |                |
+| 151| X        |         |                |
+| 152| X        |         |                |
+| 153| X        |         |                |
+| 154| X        |         |                |
+| 155| X        |         |                |
+| 156| X        |         |                |
+| 157| X        |         |                |
+| 158| X        |         |                |
+| 159| X        |         |                |
+| 160| X        |         |                |
+| 161| X        |         |                |
+| 162| X        |         |                |
+| 163| X        |         |                |
+| 164| X        |         |                |
+| 165| X        |         |                |
+| 166| X        |         |                |
+| 167| X        |         |                |
+| 168| X        |         |                |
+| 169| X        |         |                |
+| 170| X        |         |                |
+| 171| X        |         |                |
+| 172| X        |         |                |
+| 173| X        |         |                |
+| 174| X        |         |                |
+| 175| X        |         |                |
+| 176| X        |         |                |
+| 177| X        |         |                |
+| 178| X        |         |                |
+| 179| X        |         |                |
+| 180| —        | —       | —              |
+| 181| X        |         |                |
+| 182| X        |         |                |
+| 183| X        |         |                |
+| 184| X        |         |                |
+| 185| X        |         |                |
+| 186| X        |         |                |
+| 187| X        |         |                |
+| 188| X        | X       |                |
+| 189| X        |         |                |
+| 190| X        |         |                |
+| 191| X        | X       |                |
+| 192| X        |         |                |
+| 193| X        |         |                |
+| 194| X        |         |                |
+| 195| X        | X       |                |
+| 196| X        |         |                |
+| 197| X        |         |                |
+| 198| X        |         |                |
+| 199| X        |         |                |
+| 200| X        |         |                |
+| 201| X        |         |                |
+| 202| X        |         |                |
+| 203| X        |         |                |
+| 204| X        |         |                |
+| 205|          |         | X              |
+| 206| X        |         |                |
+| 207| X        |         |                |
+| 208| X        |         |                |
+| 209| X        |         |                |
+| 210| X        |         |                |
+| 211| X        |         |                |
+| 212| X        |         |                |
+| 213| X        |         |                |
+| 214| X        |         |                |
+| 215| X        |         |                |
 
-**Totais (IDs 1–136, excluindo IDs 56 e 62):**
-- **In vitro:** 115 estudos
-- **In vivo:** 24 estudos (IDs 28, 29, 37, 39, 42, 50, 52, 53, 54, 59, 61, 66, 67, 75, 76, 78, 80, 83, 85, 86, 90, 99, 111, 121, 135, 136)
-- **Clinical trial:** 6 estudos (IDs 1, 8, 70, 86, 91, 98)
+**Totais (IDs 1–215, excluindo IDs 56, 62, 137, 139 e 180):**
+- **In vitro:** 181 estudos
+- **In vivo:** 28 estudos (IDs 28, 29, 37, 39, 42, 50, 52, 53, 54, 59, 61, 66, 67, 75, 76, 78, 80, 83, 85, 86, 90, 99, 111, 121, 135, 136, 142, 188, 191, 195)
+- **Clinical trial:** 7 estudos (IDs 1, 8, 70, 86, 91, 98, 205)
 
 **Observações:**
-- 18 estudos apresentaram classificação dupla (In vitro + In vivo): IDs 28, 29, 37, 39, 42, 50, 52, 53, 54, 67, 75, 78, 83, 90, 99, 111, 121, 136.
+- 22 estudos apresentaram classificação dupla (In vitro + In vivo): IDs 28, 29, 37, 39, 42, 50, 52, 53, 54, 67, 75, 78, 83, 90, 99, 111, 121, 136, 142, 188, 191, 195.
 - 1 estudo apresentou classificação tripla (In vitro + In vivo + Clinical trial): ID 86.
-- 2 estudos com classificação dupla (In vitro + Clinical trial): IDs 98.
+- 1 estudo com classificação dupla (In vitro + Clinical trial): ID 98.
 - 7 estudos apresentaram classificação exclusiva In vivo: IDs 59, 61, 66, 76, 80, 85, 135.
-- 2 estudos com classificação exclusiva Clinical trial: IDs 91.
-- O ID 45 possui resumo truncado; a classificação foi baseada nas informações parciais disponíveis.
-- O ID 27 possui resumo truncado, mas os métodos descritos são claramente in vitro.
-- O ID 57 possui resumo muito breve (apenas objetivo); classificação baseada no contexto de avaliação antibacteriana laboratorial.
-- O ID 62 apresenta resumo vazio/em branco e não foi classificado.
+- 2 estudos com classificação exclusiva Clinical trial: IDs 91, 205.
+- IDs 56, 62, 137, 139 e 180 não foram classificados (resumos ausentes/vazios ou IDs não fornecidos).
+- Os IDs 27, 45, 57, 145 e 149 possuem resumos truncados ou breves; classificações baseadas nas informações disponíveis.
 - O ID 126 é estudo analítico fitoquímico sem ensaio antimicrobiano; classificado como in vitro por ser laboratorial.
